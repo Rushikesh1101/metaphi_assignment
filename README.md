@@ -27,7 +27,7 @@ This project is a **Task Management Application** built using **Django** for the
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r req.txt
    ```
 4. Apply database migrations:
    ```bash
